@@ -1,0 +1,12 @@
+{application, dejadb,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { dejadb_app, []}},
+  {env, []}
+ ]}.
