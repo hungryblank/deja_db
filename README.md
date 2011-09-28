@@ -7,7 +7,7 @@ example application written for erlang user group Berlin
 Getting started
 ---------------
 
- * clone the repo `git clone https://hungryblank@github.com/hungryblank/deja_db.git`
+ * clone the repo `git clone https://github.com/hungryblank/deja_db.git`
  * cd into the repository
  * get dependencies `./rebar get-deps`
  * compile the project `./rebar compile`
